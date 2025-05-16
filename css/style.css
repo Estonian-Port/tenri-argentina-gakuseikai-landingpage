@@ -1,0 +1,28 @@
+body{  
+  background-color: #fff;
+  color: #333;
+}
+header, footer {
+  background-color: #c9ad6b;
+  color: #fff;
+}
+.btn-contact {
+  background-color: #c9ad6b;
+  color: white;
+  border-radius: 1rem;
+}
+.btn-contact:hover {
+  background-color: #E9D3A1;
+}
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.btn-tenri{
+  border-color:#652B92;
+  color: #652B92;
+}
+.btn-tenri:hover {
+  background-color: #652B92;
+  color: white;
+}
